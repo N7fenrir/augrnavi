@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AugRNavi</string>
+
+
+    <!--POI Names-->
+    <string name="atm">atm</string>
+    <string name="hosp">hospital</string>
+    <string name="logding">lodging</string>
+    <string name="movie">Movie Theater</string>
+    <string name="restaurant">restaurant</string>
+    <string name="cafe">cafe</string>
+    <string name="bakery">bakery</string>
+    <string name="bus">Bus Station</string>
+    <string name="lib">library</string>
+    <string name="mall">Shopping Mall</string>
+    <string name="taxi">Taxi Stand</string>
+    <string name="pharmacy">pharmacy</string>
+    <string name="park">park</string>
+    <string name="parking">parking</string>
+
+
+    <string name="google_maps_key">AIzaSyAPESlDtNbvc8cTBzcW5351BkyjNi5m36A</string>
+
+
+    <string name="directions_base_url">https://maps.googleapis.com/</string>
+
+    <!--App Intro-->
+    <string name="slide1_title">Welcome</string>
+    <string name="slide1_desc">AugRNavi, is a GIS based AR Application</string>
+
+    <string name="slide2_title">POI Browser</string>
+    <string name="slide2_desc">A Points of Interest Browser</string>
+
+
+</resources>
